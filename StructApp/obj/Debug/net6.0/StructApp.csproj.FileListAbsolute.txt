@@ -1,0 +1,15 @@
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\bin\Debug\net6.0\StructApp.exe
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\bin\Debug\net6.0\StructApp.deps.json
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\bin\Debug\net6.0\StructApp.runtimeconfig.json
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\bin\Debug\net6.0\StructApp.dll
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\bin\Debug\net6.0\StructApp.pdb
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\obj\Debug\net6.0\StructApp.csproj.AssemblyReference.cache
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\obj\Debug\net6.0\StructApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\obj\Debug\net6.0\StructApp.AssemblyInfoInputs.cache
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\obj\Debug\net6.0\StructApp.AssemblyInfo.cs
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\obj\Debug\net6.0\StructApp.csproj.CoreCompileInputs.cache
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\obj\Debug\net6.0\StructApp.dll
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\obj\Debug\net6.0\refint\StructApp.dll
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\obj\Debug\net6.0\StructApp.pdb
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\obj\Debug\net6.0\StructApp.genruntimeconfig.cache
+C:\Users\KADIR\source\repos\Coder\StructApp\StructApp\obj\Debug\net6.0\ref\StructApp.dll
